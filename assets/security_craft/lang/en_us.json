@@ -1,0 +1,11 @@
+{
+  "language.code": "en_us",
+  "language.name": "English",
+  "language.region": "United States",
+  "security_craft.block.invalid.position": "Invalid position.",
+  "security_craft.item.security_craft.security_camera": "Security Camera",
+  "security_craft.item.security_craft.security_camera.category": "Security",
+  "security_craft.item.security_craft.security_camera.description.line1": "The Security Camera can be used",
+  "security_craft.item.security_craft.security_camera.description.line2": "to monitor certain areas.",
+  "security_craft.item.security_craft.security_camera.id": "security_craft:security_camera"
+}

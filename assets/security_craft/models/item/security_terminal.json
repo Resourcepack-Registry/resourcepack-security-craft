@@ -1,0 +1,7 @@
+{
+  "credit": "Made with Blockbench by Mqx",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "security_craft:item/security_terminal"
+  }
+}

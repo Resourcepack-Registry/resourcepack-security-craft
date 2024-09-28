@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "security_craft:block/security_camera/wall_mount"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "security_craft:block/security_camera/wall_camera"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "security_craft:block/security_camera/floor_ceiling_camera"
+    }
+  ]
+}

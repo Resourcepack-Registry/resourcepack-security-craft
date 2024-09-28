@@ -1,0 +1,11 @@
+{
+  "language.code": "de_de",
+  "language.name": "Deutsch",
+  "language.region": "Deutschland",
+  "security_craft.block.invalid.position": "Invalide Position.",
+  "security_craft.item.security_craft.security_camera": "Sicherheitskamera",
+  "security_craft.item.security_craft.security_camera.category": "Sicherheit",
+  "security_craft.item.security_craft.security_camera.description.line1": "Die Sicherheitskamera kann zur Überwachung",
+  "security_craft.item.security_craft.security_camera.description.line2": "von bestimmten Bereichen genutzt werden.",
+  "security_craft.item.security_craft.security_camera.id": "security_craft:security_camera"
+}
